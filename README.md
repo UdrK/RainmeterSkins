@@ -2,6 +2,8 @@
 My rainmeter skins
 
 Includes:
-- NASA - Astronomy picture of the day Skin
-- Network monitor
-- System monitor
+- Nasa's astronomy picture of the day skin
+- Network monitor (dl, ul)
+- System monitor (cpu, ram, gpu)
+- Clock
+- Current weather
