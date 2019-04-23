@@ -1,7 +1,7 @@
 # RainmeterSkins
 My rainmeter skins
 
-![rainmeterscreen](https://user-images.githubusercontent.com/26527575/56472334-63c37200-645d-11e9-8414-43397ac97854.png)
+![skins](https://user-images.githubusercontent.com/26527575/56617678-cfa20800-6620-11e9-8fa5-b51ae09a8ba4.png)
 
 Includes:
 - Nasa's astronomy picture of the day skin
@@ -10,3 +10,4 @@ Includes:
 - Clock
 - Current weather
 - ISS tracker
+- Planetarium
